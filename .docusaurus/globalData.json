@@ -16,53 +16,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "prisma-abstraction/block",
+              "path": "/docs/prisma-abstraction/block",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "prisma-abstraction/fill-in-the-blank",
+              "path": "/docs/prisma-abstraction/fill-in-the-blank",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "prisma-abstraction/folder",
+              "path": "/docs/prisma-abstraction/folder",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "prisma-abstraction/points-update",
+              "path": "/docs/prisma-abstraction/points-update",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "prisma-abstraction/question",
+              "path": "/docs/prisma-abstraction/question",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "prisma-abstraction/quiz",
+              "path": "/docs/prisma-abstraction/quiz",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "prisma-abstraction/README",
+              "path": "/docs/prisma-abstraction/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "prisma-abstraction/topic",
+              "path": "/docs/prisma-abstraction/topic",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "prisma-abstraction/user",
+              "path": "/docs/prisma-abstraction/user",
               "sidebar": "tutorialSidebar"
             }
           ],

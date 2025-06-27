@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/fill-in-the-blank",
+  "title": "Fill-in-the-Blank",
+  "description": "The Fill-in-the-Blank module provides comprehensive type-safe CRUD operations and utility functions for managing interactive fill-in-the-blank content in the Nuclear application. This module handles content creation, updates, deletion, and advanced search and random selection capabilities.",
+  "source": "@site/docs/prisma-abstraction/fill-in-the-blank.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/fill-in-the-blank",
+  "permalink": "/docs/prisma-abstraction/fill-in-the-blank",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/fill-in-the-blank.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Topic Management",
+    "permalink": "/docs/prisma-abstraction/topic"
+  },
+  "next": {
+    "title": "Points System",
+    "permalink": "/docs/prisma-abstraction/points-update"
+  }
+}

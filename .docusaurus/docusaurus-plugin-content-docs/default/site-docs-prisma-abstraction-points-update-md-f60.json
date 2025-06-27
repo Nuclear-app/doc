@@ -1,0 +1,23 @@
+{
+  "id": "prisma-abstraction/points-update",
+  "title": "Points System",
+  "description": "The Points Update module provides comprehensive type-safe CRUD operations and utility functions for managing points and progress tracking in the Nuclear application. This module handles points creation, updates, deletion, and advanced aggregation and analysis capabilities.",
+  "source": "@site/docs/prisma-abstraction/points-update.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/points-update",
+  "permalink": "/docs/prisma-abstraction/points-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/points-update.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fill-in-the-Blank",
+    "permalink": "/docs/prisma-abstraction/fill-in-the-blank"
+  }
+}

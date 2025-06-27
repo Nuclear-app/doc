@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/user",
+  "title": "User Management",
+  "description": "The User module provides comprehensive type-safe CRUD operations and utility functions for managing users in the Nuclear application. This module handles user creation, updates, deletion, and relationship queries.",
+  "source": "@site/docs/prisma-abstraction/user.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/user",
+  "permalink": "/docs/prisma-abstraction/user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/user.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prisma Abstraction Layer",
+    "permalink": "/docs/prisma-abstraction/"
+  },
+  "next": {
+    "title": "Block Management",
+    "permalink": "/docs/prisma-abstraction/block"
+  }
+}

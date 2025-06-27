@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/quiz",
+  "title": "Quiz System",
+  "description": "The Quiz module provides comprehensive type-safe CRUD operations and utility functions for managing quizzes in the Nuclear application. This module handles quiz creation, updates, deletion, and complex relationship queries with blocks and topics.",
+  "source": "@site/docs/prisma-abstraction/quiz.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/quiz",
+  "permalink": "/docs/prisma-abstraction/quiz",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/quiz.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Folder Organization",
+    "permalink": "/docs/prisma-abstraction/folder"
+  },
+  "next": {
+    "title": "Question Management",
+    "permalink": "/docs/prisma-abstraction/question"
+  }
+}

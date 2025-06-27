@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/topic",
+  "title": "Topic Management",
+  "description": "The Topic module provides comprehensive type-safe CRUD operations and utility functions for managing topics in the Nuclear application. This module handles topic creation, updates, deletion, and advanced search and filtering capabilities.",
+  "source": "@site/docs/prisma-abstraction/topic.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/topic",
+  "permalink": "/docs/prisma-abstraction/topic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/topic.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Question Management",
+    "permalink": "/docs/prisma-abstraction/question"
+  },
+  "next": {
+    "title": "Fill-in-the-Blank",
+    "permalink": "/docs/prisma-abstraction/fill-in-the-blank"
+  }
+}

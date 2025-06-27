@@ -2,46 +2,77 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Nuclear Documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the comprehensive documentation for Nuclear, a powerful application built with modern web technologies. This documentation covers everything you need to know about the Prisma abstraction layer and how to effectively use it in your projects.
 
-## Getting Started
+## What is Nuclear?
 
-Get started by **creating a new site**.
+Nuclear is a sophisticated application that provides a robust abstraction layer over Prisma ORM, offering type-safe database operations with comprehensive error handling and utility functions.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Documentation Structure
 
-### What you'll need
+### 🗂️ Prisma Abstraction Layer
+Our Prisma abstraction provides type-safe CRUD operations and utility functions for all database models:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **[User Management](./prisma-abstraction/user)** - Complete user CRUD operations and utilities
+- **[Block Management](./prisma-abstraction/block)** - Content block operations and relationships
+- **[Quiz System](./prisma-abstraction/quiz)** - Quiz creation, management, and topic associations
+- **[Question Management](./prisma-abstraction/question)** - Question CRUD and block relationships
+- **[Folder Organization](./prisma-abstraction/folder)** - Hierarchical folder structure management
+- **[Fill-in-the-Blank](./prisma-abstraction/fill-in-the-blank)** - Interactive content with search and random utilities
+- **[Topic Management](./prisma-abstraction/topic)** - Topic organization with examples and quizzes
+- **[Points System](./prisma-abstraction/points-update)** - Points tracking and aggregation utilities
 
-## Generate a new site
+### 🚀 Getting Started
 
-Generate a new Docusaurus site using the **classic template**.
+Each module provides:
+- **Type-safe functions** with full TypeScript support
+- **Comprehensive error handling** with custom error classes
+- **Relationship queries** for fetching related data
+- **Utility functions** for common operations like search and aggregation
+- **Input validation** to ensure data integrity
 
-The classic template will automatically be added to your project after you run the command:
+### 📚 Quick Examples
 
-```bash
-npm init docusaurus@latest my-website classic
+```typescript
+// Create a new user
+const user = await createUser({
+  email: 'user@example.com',
+  name: 'John Doe',
+  mode: 'STUDENT'
+});
+
+// Get user with all their posts
+const userPosts = await getUserPosts(user.id);
+
+// Create a block with content
+const block = await createBlock({
+  title: 'Introduction to Nuclear',
+  content: 'Welcome to the course...',
+  authorId: user.id,
+  folderId: folder.id
+});
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Key Features
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- **🔒 Type Safety**: All functions use Prisma-generated types
+- **⚡ Performance**: Optimized queries with proper indexing
+- **🛡️ Error Handling**: Custom error classes for consistent error management
+- **🔍 Search & Filter**: Built-in search and filtering capabilities
+- **📊 Aggregation**: Utility functions for data aggregation and analysis
+- **🔄 Relationships**: Easy access to related data across models
 
-## Start your site
+## Getting Help
 
-Run the development server:
+If you need assistance with any part of the Prisma abstraction layer:
 
-```bash
-cd my-website
-npm run start
-```
+1. Check the specific module documentation
+2. Review the code examples provided
+3. Look at the error handling patterns
+4. Explore the utility functions for advanced use cases
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+---
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Ready to dive in? Start with the [User Management](./prisma-abstraction/user) documentation or explore any specific module that interests you!

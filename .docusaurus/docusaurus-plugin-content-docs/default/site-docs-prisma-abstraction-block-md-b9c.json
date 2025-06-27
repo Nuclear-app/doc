@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/block",
+  "title": "Block Management",
+  "description": "The Block module provides comprehensive type-safe CRUD operations and utility functions for managing content blocks (posts) in the Nuclear application. This module handles block creation, updates, deletion, and complex relationship queries.",
+  "source": "@site/docs/prisma-abstraction/block.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/block",
+  "permalink": "/docs/prisma-abstraction/block",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/block.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Management",
+    "permalink": "/docs/prisma-abstraction/user"
+  },
+  "next": {
+    "title": "Folder Organization",
+    "permalink": "/docs/prisma-abstraction/folder"
+  }
+}

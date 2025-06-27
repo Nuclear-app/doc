@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/question",
+  "title": "Question Management",
+  "description": "The Question module provides comprehensive type-safe CRUD operations and utility functions for managing questions in the Nuclear application. This module handles question creation, updates, deletion, and relationship queries with blocks.",
+  "source": "@site/docs/prisma-abstraction/question.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/question",
+  "permalink": "/docs/prisma-abstraction/question",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/question.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quiz System",
+    "permalink": "/docs/prisma-abstraction/quiz"
+  },
+  "next": {
+    "title": "Topic Management",
+    "permalink": "/docs/prisma-abstraction/topic"
+  }
+}

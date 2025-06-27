@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Nuclear Docs",
-  "tagline": "Stuff you might wanna know before you build Nuclear",
+  "title": "Nuclear Documentation",
+  "tagline": "Comprehensive guide to the Nuclear application",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -75,7 +75,7 @@ export default {
     "navbar": {
       "title": "Nuclear Docs",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Nuclear Documentation Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -83,7 +83,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Docs"
+          "label": "Documentation"
         },
         {
           "to": "/blog",
@@ -91,7 +91,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/nuclear-app/doc",
           "label": "GitHub",
           "position": "right"
         }
@@ -102,19 +102,41 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
-          "items": []
+          "title": "Documentation",
+          "items": [
+            {
+              "label": "Getting Started",
+              "to": "/docs/intro"
+            },
+            {
+              "label": "Prisma Abstraction",
+              "to": "/docs/prisma-abstraction/README"
+            }
+          ]
         },
         {
           "title": "Community",
-          "items": []
+          "items": [
+            {
+              "label": "GitHub",
+              "href": "https://github.com/nuclear-app/doc"
+            },
+            {
+              "label": "Issues",
+              "href": "https://github.com/nuclear-app/doc/issues"
+            }
+          ]
         },
         {
           "title": "More",
           "items": [
             {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/nuclear-app/doc"
             }
           ]
         }

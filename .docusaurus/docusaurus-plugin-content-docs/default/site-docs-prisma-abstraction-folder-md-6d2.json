@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/folder",
+  "title": "Folder Organization",
+  "description": "The Folder module provides comprehensive type-safe CRUD operations and utility functions for managing hierarchical folder structures in the Nuclear application. This module handles folder creation, updates, deletion, and complex parent-child relationship queries.",
+  "source": "@site/docs/prisma-abstraction/folder.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/folder",
+  "permalink": "/docs/prisma-abstraction/folder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/folder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Block Management",
+    "permalink": "/docs/prisma-abstraction/block"
+  },
+  "next": {
+    "title": "Quiz System",
+    "permalink": "/docs/prisma-abstraction/quiz"
+  }
+}

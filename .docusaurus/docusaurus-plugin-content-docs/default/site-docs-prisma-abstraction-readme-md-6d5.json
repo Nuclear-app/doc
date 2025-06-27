@@ -1,0 +1,27 @@
+{
+  "id": "prisma-abstraction/README",
+  "title": "Prisma Abstraction Layer",
+  "description": "The Prisma abstraction layer provides a comprehensive, type-safe interface for all database operations in Nuclear. This layer abstracts away the complexity of direct Prisma queries while maintaining full type safety and providing additional utility functions.",
+  "source": "@site/docs/prisma-abstraction/README.md",
+  "sourceDirName": "prisma-abstraction",
+  "slug": "/prisma-abstraction/",
+  "permalink": "/docs/prisma-abstraction/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/prisma-abstraction/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to Nuclear Documentation",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "User Management",
+    "permalink": "/docs/prisma-abstraction/user"
+  }
+}

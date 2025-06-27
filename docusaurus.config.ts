@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Nuclear Docs',
-  tagline: 'Stuff you might wanna know before you build Nuclear',
+  title: 'Nuclear Documentation',
+  tagline: 'Comprehensive guide to the Nuclear application',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -68,7 +68,7 @@ const config: Config = {
     navbar: {
       title: 'Nuclear Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Nuclear Documentation Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -76,11 +76,11 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Documentation',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/nuclear-app/doc',
           label: 'GitHub',
           position: 'right',
         },
@@ -90,23 +90,41 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentation',
           items: [
-
+            {
+              label: 'Getting Started',
+              to: '/docs/intro',
+            },
+            {
+              label: 'Prisma Abstraction',
+              to: '/docs/prisma-abstraction/README',
+            },
           ],
         },
         {
           title: 'Community',
           items: [
-
+            {
+              label: 'GitHub',
+              href: 'https://github.com/nuclear-app/doc',
+            },
+            {
+              label: 'Issues',
+              href: 'https://github.com/nuclear-app/doc/issues',
+            },
           ],
         },
         {
           title: 'More',
           items: [
             {
+              label: 'Blog',
+              to: '/blog',
+            },
+            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/nuclear-app/doc',
             },
           ],
         },

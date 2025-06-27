@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Welcome to Nuclear Documentation",
+  "description": "Welcome to the comprehensive documentation for Nuclear, a powerful application built with modern web technologies. This documentation covers everything you need to know about the Prisma abstraction layer and how to effectively use it in your projects.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Prisma Abstraction Layer",
+    "permalink": "/docs/prisma-abstraction/"
   }
 }
