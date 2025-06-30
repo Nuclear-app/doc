@@ -1,112 +1,121 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/docs-797": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs-455": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs-132": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+  "/docs-8b6": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
-  "/docs-9e1": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-096": {
+    "__comp": "a94703ab"
+  },
+  "/docs/development/-930": {
+    "__comp": "17896441",
+    "content": "1490091d"
+  },
+  "/docs/development/api-067": {
+    "__comp": "17896441",
+    "content": "6f494215"
+  },
+  "/docs/development/contributing-98b": {
+    "__comp": "17896441",
+    "content": "9463d0c6"
+  },
+  "/docs/development/database-611": {
+    "__comp": "17896441",
+    "content": "6fd9b8bb"
+  },
+  "/docs/development/debugging-4d5": {
+    "__comp": "17896441",
+    "content": "b540f618"
+  },
+  "/docs/development/deployment-89c": {
+    "__comp": "17896441",
+    "content": "eb2fc95d"
+  },
+  "/docs/development/environment-9ee": {
+    "__comp": "17896441",
+    "content": "f6401227"
+  },
+  "/docs/development/project-structure-f96": {
+    "__comp": "17896441",
+    "content": "b4ee6ac2"
+  },
+  "/docs/development/scripts-05d": {
+    "__comp": "17896441",
+    "content": "338d0709"
+  },
+  "/docs/development/setup-375": {
+    "__comp": "17896441",
+    "content": "e626e4d0"
+  },
+  "/docs/development/troubleshooting-1ef": {
+    "__comp": "17896441",
+    "content": "f44542d0"
+  },
+  "/docs/development/ui-framework-437": {
+    "__comp": "17896441",
+    "content": "2ea48ef0"
+  },
+  "/docs/development/workflow-3da": {
+    "__comp": "17896441",
+    "content": "d758d333"
   },
   "/docs/intro-61d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/prisma-abstraction/-288": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-6-d-5-de9"
+    "__comp": "17896441",
+    "content": "6d58e5c5"
   },
   "/docs/prisma-abstraction/block-3ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-blockb-9-c-d2c"
+    "__comp": "17896441",
+    "content": "b9c63066"
   },
   "/docs/prisma-abstraction/fill-in-the-blank-82a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-fill-in-the-blank-1-ce-ab0"
+    "__comp": "17896441",
+    "content": "1cefa0c4"
   },
   "/docs/prisma-abstraction/folder-cd8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-folder-6-d-2-448"
+    "__comp": "17896441",
+    "content": "6d20f4bc"
   },
   "/docs/prisma-abstraction/points-update-0c1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-points-updatef-60-d3f"
+    "__comp": "17896441",
+    "content": "f60b1dfd"
   },
   "/docs/prisma-abstraction/question-0ad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-question-116-27d"
+    "__comp": "17896441",
+    "content": "1165adad"
   },
   "/docs/prisma-abstraction/quiz-62d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-quiza-06-6dd"
+    "__comp": "17896441",
+    "content": "a06dab3b"
   },
   "/docs/prisma-abstraction/topic-59d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-topic-942-b86"
+    "__comp": "17896441",
+    "content": "94250c8f"
   },
   "/docs/prisma-abstraction/user-480": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prisma-abstraction-usera-35-a99"
+    "__comp": "17896441",
+    "content": "a3564ccd"
   },
   "/-e5f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

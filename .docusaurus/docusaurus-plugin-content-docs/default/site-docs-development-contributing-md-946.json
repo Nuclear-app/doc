@@ -1,0 +1,23 @@
+{
+  "id": "development/contributing",
+  "title": "Contributing Guide",
+  "description": "Complete guide to contributing to the Nuclear application, including code standards, pull request process, and community guidelines.",
+  "source": "@site/docs/development/contributing.md",
+  "sourceDirName": "development",
+  "slug": "/development/contributing",
+  "permalink": "/docs/development/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/contributing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/development/troubleshooting"
+  }
+}

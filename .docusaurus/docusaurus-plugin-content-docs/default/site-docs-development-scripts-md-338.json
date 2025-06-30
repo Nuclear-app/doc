@@ -1,0 +1,27 @@
+{
+  "id": "development/scripts",
+  "title": "Available Scripts",
+  "description": "Complete reference for all development, build, and utility scripts available in the Nuclear application.",
+  "source": "@site/docs/development/scripts.md",
+  "sourceDirName": "development",
+  "slug": "/development/scripts",
+  "permalink": "/docs/development/scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/scripts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Structure",
+    "permalink": "/docs/development/project-structure"
+  },
+  "next": {
+    "title": "Environment Configuration",
+    "permalink": "/docs/development/environment"
+  }
+}

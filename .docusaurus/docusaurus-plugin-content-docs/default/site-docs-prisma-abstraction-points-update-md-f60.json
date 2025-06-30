@@ -19,5 +19,9 @@
   "previous": {
     "title": "Fill-in-the-Blank",
     "permalink": "/docs/prisma-abstraction/fill-in-the-blank"
+  },
+  "next": {
+    "title": "Development Guide",
+    "permalink": "/docs/development/"
   }
 }

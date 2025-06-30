@@ -1,0 +1,27 @@
+{
+  "id": "development/database",
+  "title": "Database & Prisma",
+  "description": "Complete guide to database operations, Prisma schema management, and data modeling in the Nuclear application.",
+  "source": "@site/docs/development/database.md",
+  "sourceDirName": "development",
+  "slug": "/development/database",
+  "permalink": "/docs/development/database",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/database.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environment Configuration",
+    "permalink": "/docs/development/environment"
+  },
+  "next": {
+    "title": "Development Workflow",
+    "permalink": "/docs/development/workflow"
+  }
+}

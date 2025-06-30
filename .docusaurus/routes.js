@@ -3,57 +3,100 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '797'),
+    component: ComponentCreator('/docs', '455'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '132'),
+        component: ComponentCreator('/docs', '8b6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '9e1'),
+            component: ComponentCreator('/docs', '096'),
             routes: [
+              {
+                path: '/docs/development/',
+                component: ComponentCreator('/docs/development/', '930'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/api',
+                component: ComponentCreator('/docs/development/api', '067'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/contributing',
+                component: ComponentCreator('/docs/development/contributing', '98b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/database',
+                component: ComponentCreator('/docs/development/database', '611'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/debugging',
+                component: ComponentCreator('/docs/development/debugging', '4d5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/deployment',
+                component: ComponentCreator('/docs/development/deployment', '89c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/environment',
+                component: ComponentCreator('/docs/development/environment', '9ee'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/project-structure',
+                component: ComponentCreator('/docs/development/project-structure', 'f96'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/scripts',
+                component: ComponentCreator('/docs/development/scripts', '05d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/setup',
+                component: ComponentCreator('/docs/development/setup', '375'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/troubleshooting',
+                component: ComponentCreator('/docs/development/troubleshooting', '1ef'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/ui-framework',
+                component: ComponentCreator('/docs/development/ui-framework', '437'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/workflow',
+                component: ComponentCreator('/docs/development/workflow', '3da'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '61d'),

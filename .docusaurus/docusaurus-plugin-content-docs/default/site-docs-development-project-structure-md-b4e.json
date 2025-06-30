@@ -1,0 +1,27 @@
+{
+  "id": "development/project-structure",
+  "title": "Project Structure",
+  "description": "Understanding the Nuclear application's codebase organization and key directories.",
+  "source": "@site/docs/development/project-structure.md",
+  "sourceDirName": "development",
+  "slug": "/development/project-structure",
+  "permalink": "/docs/development/project-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/project-structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development Setup",
+    "permalink": "/docs/development/setup"
+  },
+  "next": {
+    "title": "Available Scripts",
+    "permalink": "/docs/development/scripts"
+  }
+}

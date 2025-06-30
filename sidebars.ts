@@ -34,6 +34,28 @@ const sidebars: SidebarsConfig = {
         'prisma-abstraction/points-update',
       ],
     },
+    {
+      type: 'category',
+      label: 'Development Guide',
+      link: {
+        type: 'doc',
+        id: 'development/README',
+      },
+      items: [
+        'development/setup',
+        'development/project-structure',
+        'development/scripts',
+        'development/environment',
+        'development/database',
+        'development/workflow',
+        'development/ui-framework',
+        'development/api',
+        'development/debugging',
+        'development/deployment',
+        'development/troubleshooting',
+        'development/contributing',
+      ],
+    },
   ],
 
   // But you can create a sidebar manually

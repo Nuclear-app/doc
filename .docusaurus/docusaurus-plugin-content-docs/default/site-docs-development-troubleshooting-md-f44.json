@@ -1,0 +1,27 @@
+{
+  "id": "development/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "Complete guide to diagnosing and resolving common issues in the Nuclear application development environment.",
+  "source": "@site/docs/development/troubleshooting.md",
+  "sourceDirName": "development",
+  "slug": "/development/troubleshooting",
+  "permalink": "/docs/development/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment Guide",
+    "permalink": "/docs/development/deployment"
+  },
+  "next": {
+    "title": "Contributing Guide",
+    "permalink": "/docs/development/contributing"
+  }
+}

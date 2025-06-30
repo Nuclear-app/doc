@@ -1,0 +1,27 @@
+{
+  "id": "development/README",
+  "title": "Development Guide",
+  "description": "Welcome to the Nuclear application development guide! This section provides comprehensive documentation for setting up, developing, and contributing to the Nuclear project.",
+  "source": "@site/docs/development/README.md",
+  "sourceDirName": "development",
+  "slug": "/development/",
+  "permalink": "/docs/development/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Points System",
+    "permalink": "/docs/prisma-abstraction/points-update"
+  },
+  "next": {
+    "title": "Development Setup",
+    "permalink": "/docs/development/setup"
+  }
+}

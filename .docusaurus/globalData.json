@@ -11,6 +11,71 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "development/api",
+              "path": "/docs/development/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/contributing",
+              "path": "/docs/development/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/database",
+              "path": "/docs/development/database",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/debugging",
+              "path": "/docs/development/debugging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/deployment",
+              "path": "/docs/development/deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/environment",
+              "path": "/docs/development/environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/project-structure",
+              "path": "/docs/development/project-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/README",
+              "path": "/docs/development/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/scripts",
+              "path": "/docs/development/scripts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/setup",
+              "path": "/docs/development/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/troubleshooting",
+              "path": "/docs/development/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/ui-framework",
+              "path": "/docs/development/ui-framework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/workflow",
+              "path": "/docs/development/workflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"

@@ -1,0 +1,27 @@
+{
+  "id": "development/deployment",
+  "title": "Deployment Guide",
+  "description": "Complete guide to deploying the Nuclear application to various platforms with production-ready configurations.",
+  "source": "@site/docs/development/deployment.md",
+  "sourceDirName": "development",
+  "slug": "/development/deployment",
+  "permalink": "/docs/development/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/deployment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Debugging Guide",
+    "permalink": "/docs/development/debugging"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/development/troubleshooting"
+  }
+}

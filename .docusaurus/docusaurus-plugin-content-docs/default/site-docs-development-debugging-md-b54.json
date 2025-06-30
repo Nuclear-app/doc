@@ -1,0 +1,27 @@
+{
+  "id": "development/debugging",
+  "title": "Debugging Guide",
+  "description": "Complete guide to debugging the Nuclear application, including tools, techniques, and best practices for identifying and resolving issues.",
+  "source": "@site/docs/development/debugging.md",
+  "sourceDirName": "development",
+  "slug": "/development/debugging",
+  "permalink": "/docs/development/debugging",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/debugging.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Documentation",
+    "permalink": "/docs/development/api"
+  },
+  "next": {
+    "title": "Deployment Guide",
+    "permalink": "/docs/development/deployment"
+  }
+}

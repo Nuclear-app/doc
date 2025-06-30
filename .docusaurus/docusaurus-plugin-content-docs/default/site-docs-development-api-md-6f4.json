@@ -1,0 +1,27 @@
+{
+  "id": "development/api",
+  "title": "API Documentation",
+  "description": "Complete guide to building and consuming APIs in the Nuclear application using Next.js API routes.",
+  "source": "@site/docs/development/api.md",
+  "sourceDirName": "development",
+  "slug": "/development/api",
+  "permalink": "/docs/development/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UI Framework & Styling",
+    "permalink": "/docs/development/ui-framework"
+  },
+  "next": {
+    "title": "Debugging Guide",
+    "permalink": "/docs/development/debugging"
+  }
+}

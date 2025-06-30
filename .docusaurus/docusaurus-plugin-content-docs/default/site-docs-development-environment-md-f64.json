@@ -1,0 +1,27 @@
+{
+  "id": "development/environment",
+  "title": "Environment Configuration",
+  "description": "Complete guide to configuring environment variables, settings, and deployment configurations for the Nuclear application.",
+  "source": "@site/docs/development/environment.md",
+  "sourceDirName": "development",
+  "slug": "/development/environment",
+  "permalink": "/docs/development/environment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/environment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Available Scripts",
+    "permalink": "/docs/development/scripts"
+  },
+  "next": {
+    "title": "Database & Prisma",
+    "permalink": "/docs/development/database"
+  }
+}

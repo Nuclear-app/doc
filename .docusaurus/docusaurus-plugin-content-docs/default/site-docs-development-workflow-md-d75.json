@@ -1,0 +1,27 @@
+{
+  "id": "development/workflow",
+  "title": "Development Workflow",
+  "description": "Complete guide to the daily development workflow, code quality practices, testing strategies, and Git workflow for the Nuclear application.",
+  "source": "@site/docs/development/workflow.md",
+  "sourceDirName": "development",
+  "slug": "/development/workflow",
+  "permalink": "/docs/development/workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/workflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database & Prisma",
+    "permalink": "/docs/development/database"
+  },
+  "next": {
+    "title": "UI Framework & Styling",
+    "permalink": "/docs/development/ui-framework"
+  }
+}

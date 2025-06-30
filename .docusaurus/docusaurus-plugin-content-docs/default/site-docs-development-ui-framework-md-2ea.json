@@ -1,0 +1,27 @@
+{
+  "id": "development/ui-framework",
+  "title": "UI Framework & Styling",
+  "description": "Complete guide to the UI technologies, styling approach, and component patterns used in the Nuclear application.",
+  "source": "@site/docs/development/ui-framework.md",
+  "sourceDirName": "development",
+  "slug": "/development/ui-framework",
+  "permalink": "/docs/development/ui-framework",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nuclear-app/doc/tree/main/docs/development/ui-framework.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development Workflow",
+    "permalink": "/docs/development/workflow"
+  },
+  "next": {
+    "title": "API Documentation",
+    "permalink": "/docs/development/api"
+  }
+}
